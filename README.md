@@ -1,4 +1,7 @@
 # sentiment_analysis
+
+Dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
 Project Description: Sentiment Analysis in Python
 This project focuses on performing sentiment analysis in Python, leveraging two distinct techniques:
 
